@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "SpotFinder",
+    "slug": "spotfinder",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#060B1A",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.spotfinder.app"
+    },
+    "android": {
+      "package": "br.com.spotfinder.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
